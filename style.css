@@ -1,0 +1,42 @@
+body {
+    background-image: URL(https://www.sketchappsources.com/resources/source-image/macos-big-sur-safari-wallpaper.png);
+}
+.playersid{
+    background-color: rgb(47, 0, 255);
+    width:30%;
+    padding: 60px;
+    color: white;
+    border-radius: 10px;
+}
+h1 {
+    color:rgb(47, 0, 255)
+}
+hr {
+    color:black;
+    width: 30%;
+    size: 3px;
+}
+h2 {
+    font-size: 40px;
+    font-family:sans-serif;
+}
+input {
+    width:60%;
+}
+button {
+    width: 40%;
+    height:30%;
+    border-radius: 10px;
+    color:rgb(246, 246, 248);
+    background-color:blue;
+    font-weight: bolder;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 50px;
+float: none;
+text-align: center;
+}
